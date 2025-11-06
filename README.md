@@ -1,2 +1,2 @@
 # class_book
-book
+마지막 업데이트: 12:30
