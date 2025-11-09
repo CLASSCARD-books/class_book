@@ -1,12 +1,10 @@
 # class_book
 
-마지막 업데이트: 9:37
-
 > [!TIP]
 > 구 링크 : https://github.com/CLASSCARD-books/class_book/tree/releases1
 
 ```
-업데이트 내역 : 중학영어듣기 [12회 딕테이션]단어
+업데이트 내역 : 중학영어듣기 [12회 딕테이션]단어 10:08
 ```
 
 # links
