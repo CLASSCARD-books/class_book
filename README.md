@@ -10,7 +10,7 @@
 > 
 >문제점 : https://github.com/CLASSCARD-books/class_book/issues
 >
-> 모든버전(제작x)
+> 모든버전(제작x)[3단변화표]
 출처&링크 : https://www.classcard.net/set/23558634
 
 ```
