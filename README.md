@@ -4,7 +4,7 @@
 > 구 링크 : https://github.com/CLASSCARD-books/class_book/tree/releases1
 
 ```
-업데이트 내역 : 중학영어듣기 [12회 딕테이션]단어 10:08
+업데이트 내역 : 감정을 나타내는 타동사 10:36
 ```
 
 # links
