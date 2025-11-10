@@ -14,6 +14,10 @@
 >
 > 모든버전(제작x)[3단변화표]
 출처&링크 : https://www.classcard.net/set/23558634
+>
+> 모든버전(제작×)[감정]
+> 출처&링크 : 
+https://www.classcard.net/set/437301
 
 # 알림 허용
 위에 notifications클릭
