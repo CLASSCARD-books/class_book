@@ -4,7 +4,7 @@
 > 구 링크 : https://github.com/CLASSCARD-books/class_book/tree/releases1
 
 ```
-업데이트 내역 : 감정을 나타내는 타동사 10:36
+업데이트 내역 : The class(Unit 8)단어 9:42
 ```
 
 # links
