@@ -1,10 +1,10 @@
 # class_book
 
 > [!TIP]
-> 구 링크 : https://github.com/CLASSCARD-books/class_book/tree/releases1
+> 구 링크 : https://github.com/CLASSCARD-books/class_book/tree/releases3
 
 ```
-업데이트 내역 : The class(Unit 8)단어 9:42
+업데이트 내역 : 중학영어듣기 [13회 딕테이션]단어 11:00
 ```
 
 # links
