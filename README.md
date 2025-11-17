@@ -4,7 +4,7 @@
 > 구 링크 : https://github.com/CLASSCARD-books/class_book/tree/releases3
 
 ```
-업데이트 내역 : 중학영어듣기 [13회 딕테이션]단어 11:00
+업데이트 내역 : 중학영어듣기 [13회 딕테이션]단어 9:24
 ```
 
 # links
@@ -22,3 +22,6 @@ https://www.classcard.net/set/437301
 # 알림 허용
 위에 notifications클릭
 만약 로그인이 뜨면 회원가입or로그인후 다시 클릭
+
+# 감정
+https://www.classcard.net/set/25935956
