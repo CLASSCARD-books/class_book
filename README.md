@@ -4,7 +4,7 @@
 > 구 링크 : https://github.com/CLASSCARD-books/class_book/tree/releases3
 
 ```
-업데이트 내역 : The class(Unit 9)단어 10:58
+업데이트 내역 : 10:03
 ```
 
 # links
@@ -28,3 +28,7 @@ https://www.classcard.net/set/25935956
 
 # 더클래스, unit 9
 근*이 제작:> : https://www.classcard.net/set/26142216
+
+# 듣기시험 (13회)
+근*이 제작 :> :
+https://www.classcard.net/set/26174976
