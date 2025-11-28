@@ -4,8 +4,10 @@
 > 구 링크 : https://github.com/CLASSCARD-books/class_book/tree/releases3
 
 ```
-업데이트 내역 : 10:03
+업데이트 내역 : 중학영어듣기 [14?회 딕테이션]단어 5:10
 ```
+# 주의
+업데이트 느릴때 있음!
 
 # links
 > 바로가기 : https://github.com/CLASSCARD-books/class_book/releases
