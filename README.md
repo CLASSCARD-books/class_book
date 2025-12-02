@@ -34,3 +34,6 @@ https://www.classcard.net/set/25935956
 # 듣기시험 (13회)
 근*이 제작 :> :
 https://www.classcard.net/set/26174976
+
+# 더클래스
+https://www.classcard.net/set/26238814
