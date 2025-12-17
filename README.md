@@ -1,7 +1,8 @@
 # class_book
 
 # 공지⛔️
-본 내용은 **개발 중단**상태입니다, 사용하지 않는 내용은 모두 삭제하였습니다. 새 업데이트가 올라오기 전까진 업데이트가 없습니다.
+**개발중지**알림, 오타및 수정오류로 인해 본 저장소는 아카이브(업데이트×)상태로 전환됩니다.
+새로운 업데이트시 https://github.com/CLASSCARD-books/CLBOOKS 로 올라옵니다.
 
 > [!TIP]
 > ---- : https://github.com/CLASSCARD-books/class_book/
